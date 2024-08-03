@@ -28,38 +28,3 @@
   <img src="https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/-phpMyAdmin-ffffff?style=flat&logo=phpmyadmin" />
 </div>
-
-<div align="center" style="background-color:#003f5c; padding:20px;">
-  <h2 style="color:white;">Projects</h2>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <div style="background-color:#007bb5; margin:10px; padding:10px; border-radius:8px; width:250px;">
-      <a href="https://github.com/doshishaus/classcommunity" style="color:white; text-decoration:none;"><h3>classcommunity</h3></a>
-      <p style="color:white;">掲示板サイト (PHP)</p>
-    </div>
-    <div style="background-color:#007bb5; margin:10px; padding:10px; border-radius:8px; width:250px;">
-      <a href="https://github.com/doshishaus/magonote1-2" style="color:white; text-decoration:none;"><h3>magonote1-2</h3></a>
-      <p style="color:white;">JavaScript Project</p>
-    </div>
-    <div style="background-color:#007bb5; margin:10px; padding:10px; border-radius:8px; width:250px;">
-      <a href="https://github.com/illionillion/ashiato" style="color:white; text-decoration:none;"><h3>illionillion/ashiato</h3></a>
-      <p style="color:white;">ビギナーズハッカソン用リポジトリ (PHP)</p>
-    </div>
-    <div style="background-color:#007bb5; margin:10px; padding:10px; border-radius:8px; width:250px;">
-      <a href="https://github.com/doshishaus/GuchiAIapp" style="color:white; text-decoration:none;"><h3>GuchiAIapp</h3></a>
-      <p style="color:white;">vertexAIを使用した愚痴を生成し共有するアプリ (JavaScript)</p>
-    </div>
-    <div style="background-color:#007bb5; margin:10px; padding:10px; border-radius:8px; width:250px;">
-      <a href="https://github.com/doshishaus/hackathon_team4" style="color:white; text-decoration:none;"><h3>hackathon_team4</h3></a>
-      <p style="color:white;">Hackathon Project (TypeScript)</p>
-    </div>
-    <div style="background-color:#007bb5; margin:10px; padding:10px; border-radius:8px; width:250px;">
-      <a href="https://github.com/doshishaus/miyazakiseminarWelcomeHP" style="color:white; text-decoration:none;"><h3>miyazakiseminarWelcomeHP</h3></a>
-      <p style="color:white;">Forked HTML Project</p>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="background-color:#001f3f; padding:20px;">
-  <h2 style="color:white;">Connect with Me</h2>
-  <p style="color:white;">Feel free to explore my projects and contributions. Thank you for visiting my profile!</p>
-</div>
