@@ -1,7 +1,6 @@
 <div align="center" style="background-color:#008CBA; padding:20px;">
-  <img src="images/topimg.jpeg" alt="Profile Banner" width="50%" />
-  <h1 style="color:white;">👋 Hello! I'm doshishaus</h1>
-  <p style="color:white; font-size:18px;">I'm a passionate developer with a love for creating beautiful and functional web applications.</p>
+  <h1 style="color:white;">I'm doshishaus</h1>
+  <p style="color:white; font-size:18px;">I'm a japanese student.</p>
 </div>
 
 <div align="center" style="background-color:#007bb5; padding:20px;">
