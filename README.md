@@ -1,5 +1,5 @@
 <div align="center" style="background-color:#008CBA; padding:20px; display:flex; align-items:center; justify-content:center;">
-  <img src="images/banner.png" alt="Profile Banner" style="width:50%; margin-right:20px;" />
+  <img src="images/topimg.jpeg" alt="Profile Banner" style="width:50%; margin-right:20px; border-raduis:25px;" />
   <div>
     <h1 style="color:white;">👋 Hello! I'm doshishaus</h1>
     <p style="color:white; font-size:18px;">I'm a passionate developer with a love for creating beautiful and functional web applications.</p>
