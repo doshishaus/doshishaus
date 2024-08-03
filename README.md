@@ -11,7 +11,7 @@
   <p style="color:white; font-size:16px;">🏆 Achievements: Successfully implemented various projects including web applications and hackathon contributions.</p>
 </div>
 
-<div align="center" style="background-color:#005f73; padding:20px;">
+<div style="background-color:#005f73; padding:20px;">
   <h2 style="color:white;">My Skills</h2>
   <img src="https://img.shields.io/badge/-HTML-ffffff?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=css3" />
